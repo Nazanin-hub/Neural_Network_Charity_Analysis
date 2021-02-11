@@ -8,12 +8,19 @@ Helping Backs who is a datascientist in the nonprofit foundation Alphabet Soup t
 
 ## Resources
 
+Data Source: charity_data.csv
+
+Software: Python 3.8.3, Anaconda Navigator 1.9.12, Jupyter Notebook 6.0.3
+
+
 ## Results
 
 ### Data Preprocessing
 
-  - 
-  - 
-  - 
+  - IS_SUCCESSFUL column has been considered the target for the model.
+  
+  - All columns(APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT ) except IS_SUCCESSFUL column haave been considered the features for the model.
+  
+  - Identification columns,'EIN','NAME', should be removed from the input data.
 
 ## Summary

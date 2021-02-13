@@ -35,6 +35,12 @@ Software: Python 3.8.3, Anaconda Navigator 1.9.12, Jupyter Notebook 6.0.3
   
   - The target model performance was 75% while the accuracy of the model was 72% .So, I was not able to get the target model performance.
   - I dropped the 'SPECIAL_CONSIDERATIONS' column, Created more bins for rare occurrences in 'APPLICATION_TYPE' and 'CLASSIFICATION' columns, added more hidden layers, added more naurones to each layer, changed the activiation function for each layer,and increased the number of epochs. but, none of these steps could help to increase the model performance and get the more accuracy.
+  
+  
+  ![optimizing the model](https://user-images.githubusercontent.com/71282697/107843759-7b7e8f80-6d82-11eb-9997-a251fb0e009f.png)
+  
+  
+
 
 ## Summary
 

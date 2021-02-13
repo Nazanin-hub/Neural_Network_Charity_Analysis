@@ -45,4 +45,4 @@ I dropped the 'SPECIAL_CONSIDERATIONS' column, Created more bins for rare occurr
 
 ## Summary
 
-After optimizing the model, the accuracy of the model is still 72% and I didn't get the higher accuracy. I think we can optimize our neural network by removing more features or simply adding more data to the dataset to increase accuracy.  
+After optimizing the model, the accuracy of the model was still 72% and I didn't get the accuracy higher than 75%. I think we can optimize our neural network model by removing more features or adding more data to the dataset to increase accuracy.   

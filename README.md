@@ -39,6 +39,8 @@ Software: Python 3.8.3, Anaconda Navigator 1.9.12, Jupyter Notebook 6.0.3
   
   ![optimizing the model](https://user-images.githubusercontent.com/71282697/107843759-7b7e8f80-6d82-11eb-9997-a251fb0e009f.png)
   
+  ![accuracy of the optimized model](https://user-images.githubusercontent.com/71282697/107843768-98b35e00-6d82-11eb-9944-c5c4a0a36d20.png)
+
   
 
 

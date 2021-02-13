@@ -25,9 +25,11 @@ Software: Python 3.8.3, Anaconda Navigator 1.9.12, Jupyter Notebook 6.0.3
   
 ### Compiling, Training, and Evaluating the Model
 
-  - I Created a neural network model with two hidden layers. First hidden layer has 80 nourons with Relu activiation function. Second hidden layer has 30 nourons with Relu activation function and output layer activation function is Sigmoid.
+  - I Created a neural network model with two hidden layers and one output layer. First hidden layer has 80 nourons with Relu activiation function. Second hidden layer has 30 nourons with Relu activation function and output layer activation function is Sigmoid.
   
   - The target model performance was 75% while the accuracy of the model was 72% .So, I was not able to get the target model performance.
   - I dropped the 'SPECIAL_CONSIDERATIONS' column, Created more bins for rare occurrences in 'APPLICATION_TYPE' and 'CLASSIFICATION' columns, added more hidden layers, added more naurones to each layer, changed the activiation function for each layer,and increased the number of epochs. but, none of these steps could help to increase the model performance and get the more accuracy.
 
 ## Summary
+
+After optimizing the model, the accuracy of the model didn't improve.

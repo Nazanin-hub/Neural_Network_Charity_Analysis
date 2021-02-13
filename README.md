@@ -30,6 +30,7 @@ Software: Python 3.8.3, Anaconda Navigator 1.9.12, Jupyter Notebook 6.0.3
   
   ![model](https://user-images.githubusercontent.com/71282697/107843722-34909a00-6d82-11eb-9287-d857cb10a650.png)
 
+  ![accuracy of the model](https://user-images.githubusercontent.com/71282697/107843741-525dff00-6d82-11eb-895b-4a67af56b225.png)
 
   
   - The target model performance was 75% while the accuracy of the model was 72% .So, I was not able to get the target model performance.

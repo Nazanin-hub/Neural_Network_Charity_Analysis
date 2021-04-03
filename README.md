@@ -7,9 +7,9 @@ Helping Backs who is a data scientist in the nonprofit foundation Alphabet Soup 
 
 ## Resources
 
-Data Source: charity_data.csv
+ - Data Source: charity_data.csv
 
-Software: Python 3.8.3, Anaconda Navigator 1.9.12, Jupyter Notebook 6.0.3
+ - Software: Python 3.8.3, Anaconda Navigator 1.9.12, Jupyter Notebook 6.0.3
 
 
 ## Results
